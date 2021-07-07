@@ -1,0 +1,124 @@
+.Avenger{
+    height:500px;
+    width:100%;
+    background-color:black;
+    margin:0px;
+    padding:50px;
+    border:50px double;
+    border-color:red;
+    display: flex;
+    justify-content:space-between;
+}
+
+.ironman{
+    font-style:italic;
+    background-color:goldenrod;
+    font-size:60px;
+    width:15%;
+    justify-content: center;
+    text-align: center;
+    line-height:500px;
+}
+
+.thor{
+    font-style:italic;
+    background-color:violet;
+    font-size:60px;
+    width:15%;
+    justify-content: center;
+    text-align: center;
+    line-height:500px;
+}
+.widow{
+    font-style:italic;
+    background-color:red;
+    font-size:60px;
+    width:15%;
+    justify-content: center;
+    text-align: center;
+    line-height:500px;
+}
+.captain{
+    font-style:italic;
+    background-color:silver;
+    font-size:60px;
+    width:15%;
+    justify-content: center;
+    text-align: center;
+    line-height:500px;
+}
+
+.hulk{
+    font-style:italic;
+    background-color:yellow;
+    font-size:60px;
+    width:15%;
+    justify-content: center;
+    text-align: center;
+    line-height:500px;
+}
+
+.Justice{
+    /* height: 500px; */
+    width:100%;
+    margin:8px;
+    background-color:gray;
+    padding:50px;
+    border:50px dashed goldenrod;
+    display:inline-block;
+    justify-content:center;
+   }
+
+    .batman{
+       
+       background-color:black;
+       color:goldenrod;
+       font-style:bold;
+       font-size:60px;
+    height:400px;
+     width:20%;
+     text-align: center;
+     line-height:400px;
+     margin-left:4%;
+     display:inline-block;
+    }
+
+   .wonder{
+    font-style:bold;
+    background-color:blue;
+    color:red;
+    font-size:60px;
+    height:400px;
+     width:20%;
+     text-align: center;
+     line-height:400px;
+     margin-left:4%;
+     display:inline-block;
+    }
+
+.aquaman{
+    font-style:bold;
+    background-color:rgb(128, 200, 228);
+    color:white;
+    font-size:60px;
+    height:400px;
+     width:20%;
+     text-align: center;
+     line-height:400px;
+     margin-left:4%;
+     display:inline-block;
+}
+
+.flash{
+    font-style:bold;
+    background-color:red;
+    color:yellow;
+    font-size:60px;
+    height:400px;
+     width:20%;
+     text-align: center;
+     line-height:400px;
+     margin-left:4%;
+     display:inline-block;
+}
+
